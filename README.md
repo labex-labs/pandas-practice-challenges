@@ -11,7 +11,7 @@ This course contains lots of challenges for Pandas, each challenge is a small Pa
 
 |   Index | Name                                             | Difficulty   | Practice                                                                   |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------|
-|      01 | 🎯 Credit Card Holder Risk Prediction             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300204'>Start Challenge</a> |
+|      01 | 🎯 Credit Card Holder Risk Prediction (Challenge) | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300204'>Start Challenge</a> |
 |      02 | 🎯 DataFrame with Sales Data                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/22107'>Start Challenge</a>  |
 |      03 | 🎯 Filtering and Indexing with CSV                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67543'>Start Challenge</a>  |
 |      04 | 🎯 Implementation of Polynomial Regression        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300250'>Start Challenge</a> |
