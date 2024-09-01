@@ -27,8 +27,8 @@ This course contains lots of challenges for Pandas, each challenge is a small Pa
 |      14 | 🎯 Predicting Flower Types with Nearest Neighbors | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256147'>Start Challenge</a> |
 |      15 | 🎯 Pandas IO Data Ingestion and Export            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/47120'>Start Challenge</a>  |
 |      16 | 🎯 Pandas DataFrame Combination Techniques        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16435'>Start Challenge</a>  |
-|      17 | 🎯 Mastering Decision Trees                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
-|      18 | 🎯 Mastering Linear Regression                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
+|      17 | 🎯 Decision Trees                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
+|      18 | 🎯 Linear Regression                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
 |      19 | 🎯 Clustering and Insights                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/198286'>Start Challenge</a> |
 |      20 | 🎯 Understanding Validation Curves                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/106940'>Start Challenge</a> |
 |      21 | 🎯 Understanding Metrics and Scoring              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185172'>Start Challenge</a> |
