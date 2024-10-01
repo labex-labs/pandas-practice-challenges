@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                              |
-|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | Practice                                                                                                                              |
+|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 DataFrame with Sales Data                      | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-dataframe-with-sales-data-22107'>Start Challenge</a>                       |
 |      02 | 🎯 Filtering and Indexing with CSV                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-filtering-and-indexing-with-csv-67543'>Start Challenge</a>                 |
 |      03 | 🎯 Sales Data Comparison                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-sales-data-comparison-92717'>Start Challenge</a>                           |
