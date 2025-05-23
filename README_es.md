@@ -31,31 +31,31 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                             |
 |----------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 DataFrame con Datos de Ventas                         | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-dataframe-with-sales-data-22107'>Iniciar Desafío</a>                        |
-|       02 | 🎯 Filtrado e Indexación con CSV                         | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-filtering-and-indexing-with-csv-67543'>Iniciar Desafío</a>                  |
-|       03 | 🎯 Comparación de Datos de Ventas                        | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-sales-data-comparison-92717'>Iniciar Desafío</a>                            |
-|       04 | 🎯 Manejo de valores NaN y duplicados                    | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-handling-nan-and-duplicates-189438'>Iniciar Desafío</a>                     |
-|       05 | 🎯 Trabajando con Series                                 | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-working-with-series-67550'>Iniciar Desafío</a>                              |
-|       06 | 🎯 Análisis de Ventas y Descuentos                       | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-analyzing-sales-and-discounts-23740'>Iniciar Desafío</a>                    |
-|       07 | 🎯 Operaciones matemáticas en DataFrame                  | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-dataframe-math-operations-172040'>Iniciar Desafío</a>                       |
-|       08 | 🎯 Manipulación de cadenas con Pandas para datos de c... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-pandas-string-manipulation-for-e-commerce-data-29301'>Iniciar Desafío</a>   |
-|       09 | 🎯 Explorando la función Where                           | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-exploring-the-where-function-53379'>Iniciar Desafío</a>                     |
-|       10 | 🎯 El poderoso método query                              | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-the-powerful-query-method-29827'>Iniciar Desafío</a>                        |
-|       11 | 🎯 Análisis de datos con reducciones booleanas de Pan... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-pandas-boolean-reductions-data-analysis-53381'>Iniciar Desafío</a>          |
-|       12 | 🎯 Accesores de DataFrame de Pandas                      | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-pandas-dataframe-accessors-47122'>Iniciar Desafío</a>                       |
-|       13 | 🎯 Una Profunda Inmersión en Transform                   | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-a-deep-dive-into-transform-23742'>Iniciar Desafío</a>                       |
-|       14 | 🎯 Predecir los Tipos de Flores con Vecinos Más Cerca... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafío</a> |
-|       15 | 🎯 Ingesta y exportación de datos con Pandas IO          | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-pandas-io-data-ingestion-and-export-47120'>Iniciar Desafío</a>              |
-|       16 | 🎯 Técnicas de combinación de DataFrame de Pandas        | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-pandas-dataframe-combination-techniques-16435'>Iniciar Desafío</a>          |
-|       17 | 🎯 Árboles de Decisión                                   | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-decision-trees-92597'>Iniciar Desafío</a>                                   |
-|       18 | 🎯 Regresión Lineal                                      | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-linear-regression-185171'>Iniciar Desafío</a>                               |
-|       19 | 🎯 Agrupamiento e Insights                               | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-clustering-and-insights-198286'>Iniciar Desafío</a>                         |
-|       20 | 🎯 Comprendiendo las curvas de validación                | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-understanding-validation-curves-106940'>Iniciar Desafío</a>                 |
-|       21 | 🎯 Comprender Métricas y Puntuación                      | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafío</a>               |
+|       01 | 🎯 DataFrame con Datos de Ventas                         | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-dataframe-with-sales-data-22107'>Iniciar Desafío</a>                        |
+|       02 | 🎯 Filtrado e Indexación con CSV                         | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-filtering-and-indexing-with-csv-67543'>Iniciar Desafío</a>                  |
+|       03 | 🎯 Comparación de Datos de Ventas                        | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-sales-data-comparison-92717'>Iniciar Desafío</a>                            |
+|       04 | 🎯 Manejo de valores NaN y duplicados                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-handling-nan-and-duplicates-189438'>Iniciar Desafío</a>                     |
+|       05 | 🎯 Trabajando con Series                                 | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-working-with-series-67550'>Iniciar Desafío</a>                              |
+|       06 | 🎯 Análisis de Ventas y Descuentos                       | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-analyzing-sales-and-discounts-23740'>Iniciar Desafío</a>                    |
+|       07 | 🎯 Operaciones matemáticas en DataFrame                  | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-dataframe-math-operations-172040'>Iniciar Desafío</a>                       |
+|       08 | 🎯 Manipulación de cadenas con Pandas para datos de c... | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-pandas-string-manipulation-for-e-commerce-data-29301'>Iniciar Desafío</a>   |
+|       09 | 🎯 Explorando la función Where                           | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-exploring-the-where-function-53379'>Iniciar Desafío</a>                     |
+|       10 | 🎯 El poderoso método query                              | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-the-powerful-query-method-29827'>Iniciar Desafío</a>                        |
+|       11 | 🎯 Análisis de datos con reducciones booleanas de Pan... | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-pandas-boolean-reductions-data-analysis-53381'>Iniciar Desafío</a>          |
+|       12 | 🎯 Accesores de DataFrame de Pandas                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-pandas-dataframe-accessors-47122'>Iniciar Desafío</a>                       |
+|       13 | 🎯 Una Profunda Inmersión en Transform                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-a-deep-dive-into-transform-23742'>Iniciar Desafío</a>                       |
+|       14 | 🎯 Predecir los Tipos de Flores con Vecinos Más Cerca... | Principiante | <a target='_blank' href='https://labex.io/es/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>Iniciar Desafío</a> |
+|       15 | 🎯 Ingesta y exportación de datos con Pandas IO          | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-pandas-io-data-ingestion-and-export-47120'>Iniciar Desafío</a>              |
+|       16 | 🎯 Técnicas de combinación de DataFrame de Pandas        | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-pandas-dataframe-combination-techniques-16435'>Iniciar Desafío</a>          |
+|       17 | 🎯 Árboles de Decisión                                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-decision-trees-92597'>Iniciar Desafío</a>                                   |
+|       18 | 🎯 Regresión Lineal                                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-linear-regression-185171'>Iniciar Desafío</a>                               |
+|       19 | 🎯 Agrupamiento e Insights                               | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-clustering-and-insights-198286'>Iniciar Desafío</a>                         |
+|       20 | 🎯 Comprendiendo las curvas de validación                | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-understanding-validation-curves-106940'>Iniciar Desafío</a>                 |
+|       21 | 🎯 Comprender Métricas y Puntuación                      | Principiante | <a target='_blank' href='https://labex.io/es/labs/python-understanding-metrics-and-scoring-185172'>Iniciar Desafío</a>               |
 
 ## Más
 
-- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- 🔗 [Pandas Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas Tutoriales Gratuitos](https://github.com/labex-labs/pandas-free-tutorials)
 
