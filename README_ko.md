@@ -15,29 +15,29 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                 | 난이도   | 연습                                                                                                                           |
-|----------|------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 🔵 DataFrame with Sales Data                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-dataframe-with-sales-data-22107'>도전 시작</a>                        |
-|       02 | 🎯 🔵 Filtering and Indexing with CSV                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-filtering-and-indexing-with-csv-67543'>도전 시작</a>                  |
-|       03 | 🎯 🔵 Sales Data Comparison                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-sales-data-comparison-92717'>도전 시작</a>                            |
-|       04 | 🎯 🔵 Handling NaN and Duplicates                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-handling-nan-and-duplicates-189438'>도전 시작</a>                     |
-|       05 | 🎯 🔵 Working with Series                            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-working-with-series-67550'>도전 시작</a>                              |
-|       06 | 🎯 🔵 Analyzing Sales and Discounts                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-analyzing-sales-and-discounts-23740'>도전 시작</a>                    |
-|       07 | 🎯 🔵 DataFrame Math Operations                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-dataframe-math-operations-172040'>도전 시작</a>                       |
-|       08 | 🎯 🔵 Pandas String Manipulation for E-commerce Data | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-string-manipulation-for-e-commerce-data-29301'>도전 시작</a>   |
-|       09 | 🎯 🔵 Exploring the Where Function                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-exploring-the-where-function-53379'>도전 시작</a>                     |
-|       10 | 🎯 🔵 The Powerful Query Method                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-the-powerful-query-method-29827'>도전 시작</a>                        |
-|       11 | 🎯 🔵 Pandas Boolean Reductions Data Analysis        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-boolean-reductions-data-analysis-53381'>도전 시작</a>          |
-|       12 | 🎯 🔵 Pandas DataFrame Accessors                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-dataframe-accessors-47122'>도전 시작</a>                       |
-|       13 | 🎯 🔵 A Deep Dive Into Transform                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-a-deep-dive-into-transform-23742'>도전 시작</a>                       |
-|       14 | 🎯 🔵 Predicting Flower Types with Nearest Neighbors | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>도전 시작</a> |
-|       15 | 🎯 🔵 Pandas IO Data Ingestion and Export            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-io-data-ingestion-and-export-47120'>도전 시작</a>              |
-|       16 | 🎯 🔵 Pandas DataFrame Combination Techniques        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-dataframe-combination-techniques-16435'>도전 시작</a>          |
-|       17 | 🎯 🔵 Decision Trees                                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-decision-trees-92597'>도전 시작</a>                                   |
-|       18 | 🎯 🔵 Linear Regression                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-linear-regression-185171'>도전 시작</a>                               |
-|       19 | 🎯 🔵 Clustering and Insights                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-clustering-and-insights-198286'>도전 시작</a>                         |
-|       20 | 🎯 🔵 Understanding Validation Curves                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-validation-curves-106940'>도전 시작</a>                 |
-|       21 | 🎯 🔵 Understanding Metrics and Scoring              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-metrics-and-scoring-185172'>도전 시작</a>               |
+|   인덱스 | 이름                                         | 난이도   | 연습                                                                                                                           |
+|----------|----------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 🆓 판매 데이터가 포함된 DataFrame         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-dataframe-with-sales-data-22107'>도전 시작</a>                        |
+|       02 | 🎯 🆓 CSV 를 이용한 필터링 및 인덱싱         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-filtering-and-indexing-with-csv-67543'>도전 시작</a>                  |
+|       03 | 🎯 🆓 판매 데이터 비교                       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/pandas-sales-data-comparison-92717'>도전 시작</a>                            |
+|       04 | 🎯 🆓 NaN 및 중복 데이터 처리                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-handling-nan-and-duplicates-189438'>도전 시작</a>                     |
+|       05 | 🎯 🆓 Series 다루기                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-working-with-series-67550'>도전 시작</a>                              |
+|       06 | 🎯 🆓 판매 및 할인 분석                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-analyzing-sales-and-discounts-23740'>도전 시작</a>                    |
+|       07 | 🎯 🆓 DataFrame 수학 연산                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-dataframe-math-operations-172040'>도전 시작</a>                       |
+|       08 | 🎯 🆓 전자상거래 데이터용 Pandas 문자열 조작 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/pandas-pandas-string-manipulation-for-e-commerce-data-29301'>도전 시작</a>   |
+|       09 | 🎯 🆓 Where 함수 탐색                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-exploring-the-where-function-53379'>도전 시작</a>                     |
+|       10 | 🎯 🆓 강력한 Query 메서드                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/pandas-the-powerful-query-method-29827'>도전 시작</a>                        |
+|       11 | 🎯 🆓 Pandas 불리언 연산 데이터 분석         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-boolean-reductions-data-analysis-53381'>도전 시작</a>          |
+|       12 | 🎯 🆓 Pandas DataFrame 접근자                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/pandas-pandas-dataframe-accessors-47122'>도전 시작</a>                       |
+|       13 | 🎯 🆓 Transform 심층 분석                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/pandas-a-deep-dive-into-transform-23742'>도전 시작</a>                       |
+|       14 | 🎯  이웃을 이용한 꽃 종류 예측               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147'>도전 시작</a> |
+|       15 | 🎯 🆓 Pandas IO 데이터 수집 및 내보내기      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-io-data-ingestion-and-export-47120'>도전 시작</a>              |
+|       16 | 🎯 🆓 Pandas DataFrame 결합 기법             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-pandas-dataframe-combination-techniques-16435'>도전 시작</a>          |
+|       17 | 🎯  결정 트리                                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-decision-trees-92597'>도전 시작</a>                                   |
+|       18 | 🎯  선형 회귀 (Linear Regression)            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-linear-regression-185171'>도전 시작</a>                               |
+|       19 | 🎯  클러스터링 및 인사이트                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-clustering-and-insights-198286'>도전 시작</a>                         |
+|       20 | 🎯  검증 곡선 이해하기                       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-validation-curves-106940'>도전 시작</a>                 |
+|       21 | 🎯  지표 및 점수 이해하기                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understanding-metrics-and-scoring-185172'>도전 시작</a>               |
 
 ## 환경
 
